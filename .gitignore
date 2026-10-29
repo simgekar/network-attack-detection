@@ -1,0 +1,21 @@
+# Raw captures and generated datasets (contain lab network addresses)
+*.pcap
+*.pcapng
+pcap_verileri/
+*.csv
+*_dataset.txt
+dataset.json
+normal*.json
+arp_*.json
+dhcp_*.json
+nmap_*.json
+
+# Secrets
+.env
+*.key
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/

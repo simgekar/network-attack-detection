@@ -1,0 +1,11 @@
+numpy
+pandas
+scapy
+pyshark
+nest-asyncio
+scikit-learn
+imbalanced-learn
+tensorflow
+requests
+matplotlib
+seaborn
